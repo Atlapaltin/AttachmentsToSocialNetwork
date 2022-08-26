@@ -13,6 +13,7 @@ fun main() {
             WikiAttachment()
         )
     )
+
     val post2 =  Post(
         id = 0,
         ownerId = 1,
